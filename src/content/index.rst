@@ -18,9 +18,10 @@ The Fe\ :sub:`0.64`\ Ni\ :sub:`0.36` alloy exhibits an anomalously low thermal e
 Data
 ----
 
-Ghe data related to this work is available here:
+The data related to this work is available here:
 
 - An archive hosted by Open Materials Database: `pressure_induced_invar.tar.gz <https://public.openmaterialsdb.se/Pressure_induced_invar_effect/pressure_induced_invar.tar.gz>`__
+- Backup link (in case there are issues with the above one): `pressure_induced_invar.tar.gz <https://liuonline-my.sharepoint.com/:u:/g/personal/ricar47_liu_se/EZNSg630eRZCoba5ocyZEPkBIsqUtA3_YXnGWupPGoaoOQ?e=37GwXs>`__
 
 Note: if any of the above links are broken or anything else needs to be updated, please let us know using `the contact info on the dataset web page. <https://data.openmaterialsdb.se>`__
 
