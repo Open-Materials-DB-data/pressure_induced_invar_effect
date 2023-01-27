@@ -28,6 +28,6 @@ Note: if any of the above links are broken or anything else needs to be updated,
 Permanent link
 --------------
 
-The permanent URL to use for this page is: 
+A permanent URL to use for this page is:
 
-  - https://data.openmaterialsdb.se/pressure_induced_invar_effect
+* https://data.openmaterialsdb.se/pressure_induced_invar_effect
